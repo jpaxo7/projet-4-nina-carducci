@@ -354,3 +354,14 @@ input[type="submit"] {
 	}
 }
 
+h4.about-me__introduction{
+	font-size: 1rem;
+}
+
+h2.title{
+	font-size: 1.75rem;
+}
+
+.form-container h2{
+	font-size: 1.75rem;
+}
