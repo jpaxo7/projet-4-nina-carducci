@@ -365,3 +365,7 @@ h2.title{
 .form-container h2{
 	font-size: 1.75rem;
 }
+
+.visually-hidden{
+	color: #000;
+}
