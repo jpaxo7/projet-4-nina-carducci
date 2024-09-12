@@ -1,0 +1,7 @@
+images : passer les images au format webp + compresser ces images pour réduire leur taille et gagner en temps de chargement du site
+
+Balises sémantiques : ajouter les balises sémantiques au code html pour une meilleure lecture et un meilleur référencement
+
+ajout des informations données comme convenu
+
+SEO
