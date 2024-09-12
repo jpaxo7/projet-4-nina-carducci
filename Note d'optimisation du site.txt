@@ -1,6 +1,6 @@
 images : passer les images au format webp + compresser ces images pour réduire leur taille et gagner en temps de chargement du site + redimensionner les images
 
-Balises sémantiques : ajouter les balises sémantiques au code html pour une meilleure lecture et un meilleur référencement
+Balises sémantiques : ajouter les balises sémantiques au code html pour une meilleure lecture et un meilleur référencement (header, main, footer)
 
 ajout des informations données comme convenu : création d'un footer contenant les données personnelles
 
@@ -8,4 +8,4 @@ SEO
 
 balises meta : pour un meilleur referencement lié aux réseaux sociaux donc meilleure visibilité sur internet
 
-accessibilité : optimisation via l'extension wave
+accessibilité : optimisation via l'extension wave (ajout des alt sur les images, attribut lang dans la balise <html>, ajout d'attributs aria-label au ormulaire et lien réseaux sociaux pour les lecteurs d'écrans, ajout de la balise title à la page)
